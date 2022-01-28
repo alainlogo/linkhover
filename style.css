@@ -88,9 +88,9 @@ button {
 li{
     height: 130px;
     background-color: black;
-    margin-bottom: 10px;
     position: relative;
     overflow: hidden;
+    border-bottom: 1px solid white;
 }
 li a{
     font-size: 130px;
